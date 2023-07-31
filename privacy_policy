@@ -39,11 +39,12 @@ Personal Data
 quiettooiapp@gmail.com
 
 
-Policy of data usage, collection and deletion
+The policy of data usage, collection, and deletion
+
+(Quiet Tool) if you accept the permission you need to know that, the location in the background should always be in use to save the user's location in Firebase to convert from silent mode to the main mode or vibration mode as you save it with the location you save.
+The service provider within the application can save and change the location at any time while using the application
 
 (Quiet Tool) We use the email information in the Google account for the purpose of creating a new account within the application
-
-The service provider within the application can save and change the location at any time while using the application
 
 By opening the application, then adding new places and saving or changing the location
 
@@ -55,7 +56,7 @@ Only to be used in order to identify people within the application
 
 Since the application is a platform for services, the site needs to define the real user names and uses Google in the account creation and registration process
 
-People can request deletion of their data from the Quiet Tool database.
+People can request the deletion of their data from the Quiet Tool database.
 
 By sending an official email
 
